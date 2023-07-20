@@ -15,9 +15,6 @@ export default function Navbar() {
                         PCO Dark Mode
                     </Typography>
                     <Button
-                        sx={{
-                            boxShadow: 'inset 0px 0px 0px 1px #676767',
-                        }}
                         color="inherit"
                     >
                         Download (Chrome Web Store)
