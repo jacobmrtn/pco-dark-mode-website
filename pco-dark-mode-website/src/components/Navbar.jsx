@@ -16,6 +16,8 @@ export default function Navbar() {
                     </Typography>
                     <Button
                         color="inherit"
+                        href="https://chrome.google.com/webstore/detail/pco-dark-mode/nppgjechfhmnepbjigflblopgcpecifm"
+                        target="_blank"
                     >
                         Download (Chrome Web Store)
                     </Button>
