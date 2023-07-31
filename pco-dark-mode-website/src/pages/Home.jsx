@@ -12,7 +12,7 @@ function Home() {
                     <TypewriterComponent
                         options={{
                             strings: [
-                                "The ultimate way to experience PCO in dark mode.",
+                                "The ultimate way to experience PCO is in dark mode.",
                                 "Because your eyes deserve a break.",
                                 "Dark mode for the people, by the people.",
                                 "Because dark mode is the future."
